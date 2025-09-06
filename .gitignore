@@ -60,7 +60,7 @@ Thumbs.db.meta
 *.vscode
 
 
-[Aa]ssets/[Uu]gp/
 [Aa]ssets/[Tt]be/
 .idea/
 .project
+[Aa]ssets/[Pp]lugins/
