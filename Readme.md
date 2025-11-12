@@ -2,6 +2,8 @@
 
 This is the empty project template for use with The Button Engine. It's usage is explained [here](https://powermode-default.com:8480/docs/TBE-Docs/LATEST/quickstart.html)
 
+NOTE that The Button Engine is NOT YET RELEASED.
+
 It contains the following items that are required by The Button Engine and **you must install/configure them yourself if you do not use this template**:
 
 ## Unity
