@@ -1,6 +1,6 @@
 ﻿# TBE_Empty_Project
 
-This is the empty project template for use with The Button Engine. It's usage is explained [here](https://powermode-default.com:8480/docs/TBE-Docs/LATEST/quickstart.html)
+This is the empty project template for use with [The Button Engine](https://powermode-default.com:8480/docs/TBE-Docs/LATEST/start.html). It's usage is explained [here](https://powermode-default.com:8480/docs/TBE-Docs/LATEST/quickstart.html)
 
 NOTE that The Button Engine is NOT YET RELEASED.
 
